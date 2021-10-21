@@ -11,7 +11,7 @@ I am a full-stack software engineer. I love programming, learning, cycling and t
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on sdk development;
-- 🚀 I’m currently learning AWS on [ExamPro](https://www.exampro.co/);
+- 🚀 I’m currently mastering AWS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: cpramishap@gmail.com;
 - 📝 [Resume]().
