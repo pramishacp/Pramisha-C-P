@@ -1,5 +1,5 @@
 # Pramisha-C-P
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Pramisha C P</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://www.instagram.com/pramishacp/" target="_blank">Pramisha C P</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramishacp)
 [![Website Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://www.pramishacp.com/)
