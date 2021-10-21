@@ -10,17 +10,18 @@
 
 I am a full-stack software engineer. I love programming, learning, cycling and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+** Talking about Technical Skills:**
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="408" height="318" />
-  
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/pramishacp)
+
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on sdk development;
 - 🚀 I’m currently learning AWS on [ExamPro](https://www.exampro.co/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: cpramishap@gmail.com;
+- 📝 [Resume]().
 
 </br>
 
@@ -32,7 +33,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramishacp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramisha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramishacp&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
