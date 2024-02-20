@@ -13,8 +13,6 @@ I am a full-stack software engineer. I love programming, learning, cycling and t
 - 👨🏻‍💻 I’m currently working on sdk development;
 - 🚀 I’m currently mastering AWS;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: cpramishap@gmail.com;
-- 📝 [Resume]().
 
 **Talking about Technical Skills:**
 
